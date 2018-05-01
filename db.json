@@ -1,0 +1,88 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML on helppoa",
+      "date": "2017-12-10T17:30:31.098Z",
+      "important": false
+    },
+    {
+      "id": 2,
+      "content": "Selain pystyy suorittamaan vain javascriptiä",
+      "date": "2017-12-10T18:39:34.091Z",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "HTTP-protokollan tärkeimmät metodit ovat GET ja POST",
+      "date": "2017-12-10T19:20:14.298Z",
+      "important": false
+    },
+    {
+      "content": "fafa",
+      "date": "2018-05-01T12:58:22.842Z",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "fafa",
+      "date": "2018-05-01T12:58:34.977Z",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "fafa",
+      "date": "2018-05-01T12:58:35.378Z",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "fafa",
+      "date": "2018-05-01T12:58:35.537Z",
+      "important": false,
+      "id": 7
+    },
+    {
+      "content": "fafa",
+      "date": "2018-05-01T12:58:35.681Z",
+      "important": false,
+      "id": 8
+    },
+    {
+      "content": "new",
+      "date": "2018-05-01T12:59:55.241Z",
+      "important": false,
+      "id": 9
+    },
+    {
+      "content": "new",
+      "date": "2018-05-01T13:00:07.880Z",
+      "important": false,
+      "id": 10
+    },
+    {
+      "content": "tester?!",
+      "date": "2018-05-01T13:01:29.559Z",
+      "important": false,
+      "id": 11
+    },
+    {
+      "content": "",
+      "date": "2018-05-01T13:01:31.335Z",
+      "important": false,
+      "id": 12
+    },
+    {
+      "content": "uusi muistiinpano..",
+      "date": "2018-05-01T15:50:35.721Z",
+      "important": true,
+      "id": 13
+    },
+    {
+      "content": "",
+      "date": "2018-05-01T15:50:37.552Z",
+      "important": false,
+      "id": 14
+    }
+  ]
+}
